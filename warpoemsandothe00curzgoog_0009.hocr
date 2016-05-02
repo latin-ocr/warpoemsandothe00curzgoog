@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./warpoemsandothe00curzgoog_0009.png"; bbox 0 0 2814 4386; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 362 3139 1231 3177">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 362 3139 1231 3177">
+     <span class='ocr_line' id='line_1_1' title="bbox 362 3139 1231 3177; baseline 0.005 -6"><span class='ocrx_word' id='word_1_1' title='bbox 362 3139 411 3171; x_wconf 75' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 425 3139 582 3173; x_wconf 63' lang='lat' dir='ltr'><strong>numum!</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 595 3139 662 3171; x_wconf 76' lang='lat' dir='ltr'><strong>mss</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 674 3139 805 3173; x_wconf 71' lang='lat' dir='ltr'><strong>uwsrocx</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 817 3140 908 3177; x_wconf 71' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 921 3141 1012 3173; x_wconf 66' lang='lat' dir='ltr'><strong>novum·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1025 3141 1122 3172; x_wconf 68' lang='lat' dir='ltr'><strong>cmm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1134 3141 1231 3175; x_wconf 73' lang='lat' dir='ltr'>tounou</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1412 4386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1412 4386">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1412 4386; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1412 4386; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

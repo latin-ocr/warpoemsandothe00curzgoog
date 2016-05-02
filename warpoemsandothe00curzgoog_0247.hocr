@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./warpoemsandothe00curzgoog_0247.png"; bbox 0 0 702 1096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 146 44 564 90">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 146 44 564 90">
+     <span class='ocr_line' id='line_1_1' title="bbox 146 44 564 80; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 146 44 155 80; x_wconf 57' lang='lat'>⁸2¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 195 56 564 69; x_wconf 67' lang='lat' dir='ltr'><strong>rmnooxnmmonmnnnAm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 298 77 463 90; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 298 77 389 90; x_wconf 67' lang='lat' dir='ltr'>snm</span> <span class='ocrx_word' id='word_1_4' title='bbox 395 77 463 90; x_wconf 68' lang='lat' dir='ltr'>Bmw</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 349 101 412 104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 349 101 412 104">
+     <span class='ocr_line' id='line_1_3' title="bbox 349 101 412 104; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 349 101 412 104; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 699 16 702 794">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 699 16 702 794">
+     <span class='ocr_line' id='line_1_4' title="bbox 699 16 702 794; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 699 16 702 794; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

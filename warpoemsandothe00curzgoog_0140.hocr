@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./warpoemsandothe00curzgoog_0140.png"; bbox 0 0 2824 4388; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 30 598 913 713">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 30 598 913 713">
+     <span class='ocr_line' id='line_1_1' title="bbox 30 598 913 713; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 30 598 32 639; x_wconf 75' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 210 629 295 712; x_wconf 70' lang='lat' dir='ltr'>on</span> <span class='ocrx_word' id='word_1_3' title='bbox 325 631 364 711; x_wconf 86' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 395 628 622 713; x_wconf 74' lang='lat' dir='ltr'>sTATuE</span> <span class='ocrx_word' id='word_1_5' title='bbox 650 629 728 712; x_wconf 78' lang='lat' dir='ltr'>oF</span> <span class='ocrx_word' id='word_1_6' title='bbox 757 630 913 713; x_wconf 71' lang='lat' dir='ltr'>Lovss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 27 1194 1082 1386">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 27 1194 1082 1386">
+     <span class='ocr_line' id='line_1_2' title="bbox 27 1194 1082 1386; baseline -0.007 -83"><span class='ocrx_word' id='word_1_7' title='bbox 27 1194 41 1287; x_wconf 37' lang='grc' dir='ltr'>μ’</span> <span class='ocrx_word' id='word_1_8' title='bbox 298 1223 580 1386; x_wconf 83' lang='lat' dir='ltr'>WHOE’ER</span> <span class='ocrx_word' id='word_1_9' title='bbox 602 1231 680 1299; x_wconf 86' lang='lat' dir='ltr'>thou</span> <span class='ocrx_word' id='word_1_10' title='bbox 700 1246 761 1314; x_wconf 75' lang='lat' dir='ltr'>art,</span> <span class='ocrx_word' id='word_1_11' title='bbox 783 1231 840 1317; x_wconf 82' lang='lat' dir='ltr'>thy</span> <span class='ocrx_word' id='word_1_12' title='bbox 862 1244 976 1296; x_wconf 82' lang='lat' dir='ltr'>master</span> <span class='ocrx_word' id='word_1_13' title='bbox 998 1231 1082 1297; x_wconf 87' lang='lat' dir='ltr'>he-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 406 1349 1049 1437">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 406 1349 1049 1437">
+     <span class='ocr_line' id='line_1_3' title="bbox 406 1349 1049 1437; baseline -0.002 -21"><span class='ocrx_word' id='word_1_14' title='bbox 406 1349 437 1416; x_wconf 77' lang='lat' dir='ltr'>Is</span> <span class='ocrx_word' id='word_1_15' title='bbox 458 1374 542 1435; x_wconf 88' lang='lat' dir='ltr'><strong>now,</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 564 1372 628 1419; x_wconf 78' lang='lat' dir='ltr'>was</span> <span class='ocrx_word' id='word_1_17' title='bbox 648 1372 740 1435; x_wconf 85' lang='lat' dir='ltr'><strong>once,</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 761 1373 797 1417; x_wconf 83' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_19' title='bbox 818 1351 919 1437; x_wconf 83' lang='lat' dir='ltr'>ought</span> <span class='ocrx_word' id='word_1_20' title='bbox 942 1365 976 1415; x_wconf 89' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_21' title='bbox 999 1349 1049 1416; x_wconf 83' lang='lat' dir='ltr'>be.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1416 4388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1416 4388">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1416 4388; baseline 0 0"><span class='ocrx_word' id='word_1_22' title='bbox 0 0 1416 4388; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

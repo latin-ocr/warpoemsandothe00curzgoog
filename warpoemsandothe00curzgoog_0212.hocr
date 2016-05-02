@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./warpoemsandothe00curzgoog_0212.png"; bbox 0 0 2788 4396; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 408 1102 495">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 408 1102 495">
+     <span class='ocr_line' id='line_1_1' title="bbox 465 408 1102 495; baseline -0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 465 454 467 457; x_wconf 32' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_2' title='bbox 563 408 689 478; x_wconf 87' lang='lat' dir='ltr'>IDEM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1046 431 1102 495; x_wconf 87' lang='lat'>191</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 151 564 980 653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 151 564 980 653">
+     <span class='ocr_line' id='line_1_2' title="bbox 151 564 980 653; baseline 0 -23"><span class='ocrx_word' id='word_1_4' title='bbox 151 564 209 630; x_wconf 92' lang='lat' dir='ltr'>Tu</span> <span class='ocrx_word' id='word_1_5' title='bbox 231 581 338 631; x_wconf 78' lang='lat' dir='ltr'><strong>tamen</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 359 568 501 653; x_wconf 79' lang='lat' dir='ltr'>antiquas</span> <span class='ocrx_word' id='word_1_7' title='bbox 522 566 631 650; x_wconf 82' lang='lat' dir='ltr'>volvis,</span> <span class='ocrx_word' id='word_1_8' title='bbox 653 568 815 651; x_wconf 83' lang='lat' dir='ltr'>Neptune,</span> <span class='ocrx_word' id='word_1_9' title='bbox 837 589 980 650; x_wconf 83' lang='lat' dir='ltr'>peroras</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 195 685 1044 773">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 195 685 1044 773">
+     <span class='ocr_line' id='line_1_3' title="bbox 195 685 1044 773; baseline 0.007 -23"><span class='ocrx_word' id='word_1_10' title='bbox 195 685 333 768; x_wconf 84' lang='lat' dir='ltr'>Sacrum,</span> <span class='ocrx_word' id='word_1_11' title='bbox 354 688 439 773; x_wconf 92' lang='lat' dir='ltr'>quod</span> <span class='ocrx_word' id='word_1_12' title='bbox 461 702 584 752; x_wconf 84' lang='lat' dir='ltr'>resonet</span> <span class='ocrx_word' id='word_1_13' title='bbox 607 702 731 771; x_wconf 80' lang='lat' dir='ltr'>tempus</span> <span class='ocrx_word' id='word_1_14' title='bbox 753 689 785 751; x_wconf 85' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_15' title='bbox 807 710 915 770; x_wconf 87' lang='lat' dir='ltr'>omne,</span> <span class='ocrx_word' id='word_1_16' title='bbox 938 686 1044 757; x_wconf 85' lang='lat' dir='ltr'>melos.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1398 4396">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1398 4396">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1398 4396; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1398 4396; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
